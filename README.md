@@ -14,6 +14,6 @@ A simple and efficient URL shortener application that transforms long URLs into 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Short_URL.git
+   git clone https://github.com/chhavi7104/Short_url.git
    cd Short_URL
 
