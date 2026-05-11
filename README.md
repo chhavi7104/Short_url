@@ -4,7 +4,6 @@
 
 A simple and efficient URL shortener application that transforms long URLs into short, shareable links.
 
-
 ## Features
 
 - Generate short URLs from long URLs
